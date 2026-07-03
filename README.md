@@ -1,6 +1,6 @@
 # Disease-Prediction
 Disease Prediction
-
+Demo Link: https://disease--prediction.streamlit.app/
 
 # 🩺 Disease Prediction System using Machine Learning
 
